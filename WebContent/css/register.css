@@ -1,0 +1,85 @@
+div{
+	border: 0px solid black;
+
+}
+
+.header1{
+	width: 1400px;
+	height: 130px;
+	padding-bottom: 30px;
+	float: left;
+	margin-top: 50px;
+}
+.image{
+	width: 300px;
+	height: 110px;
+	padding: 20px;
+	margin-left: 231px;
+	float: left;
+}
+.image1{
+	width: 300px;
+	height: 100px;
+}
+.image_1{
+	width: 150px;
+	height: 150px;
+	margin-left: 0px;
+	float: left;
+}
+.image_2{
+	margin-left: 0px;
+}
+.image2{
+	width: 150px;
+	height: 130px;
+}
+
+.image_3{
+	margin-left: 200px;
+}
+.user_login{
+	width: 280px;
+	height: 330px;
+	float: right;
+	margin-right: 100px;
+}
+table{
+	width: 300pt;
+}
+tr>td{
+	width: 100px;
+	height: 40px;
+	font-size: 12px;
+}
+td>a{
+	text-decoration: none;
+	color: red;
+}
+#txtInput{
+	width: 200pt;
+	height: 20pt;
+}
+tr>td:first{
+	width: 100pt;
+}
+input#txtMsg{
+	width: 100pt;
+	height: 20pt;
+}
+.user_register{
+	width: 100px;
+	height: 40px;
+	font-size: 18px;
+	background-color: rgb(241,1,128);
+	border: 0px solid rgb(241,1,128);
+  
+}
+.back1{
+	width: 600px;
+	height: 600px;
+	float: left;
+	background-image: url(../img/backimage.png);
+	margin-left: 100px;
+	background-repeat: no-repeat;
+}
